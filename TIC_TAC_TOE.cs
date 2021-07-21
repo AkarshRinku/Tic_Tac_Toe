@@ -8,7 +8,7 @@ namespace Tic_Tac_Toe
     {
         // initialising array of 9 characters
         char[] Board = {' ',' ',' ',' ',' ',' ',' ',' ',' ',' '};
-        int player = '1';
+     
 
 
 
